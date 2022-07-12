@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnArbitraryOutputAttr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnArgsFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnAttributeFunctionUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnBuiltInOpArgsUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnExpressionMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnGeolibCookInterfaceUtilsService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnHintUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnLookFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnMaterialResolveUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnResolutionTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnResourceFiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Katana4.5v1\plugin_apis\src\FnGeolibServices\client\FnXFormUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Katana\Asset\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{61FAFC33-E0EB-313A-9E96-952D52AC6798}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

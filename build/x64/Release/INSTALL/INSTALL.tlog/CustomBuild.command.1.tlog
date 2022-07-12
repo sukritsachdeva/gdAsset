@@ -1,0 +1,10 @@
+^C:\DEV\KATANA\ASSET\BUILD\CMAKEFILES\F93CAA9BC0B9504B9905B7A50E7B8ADF\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
